@@ -1,3 +1,2 @@
 # dms
-disaster management system
-based on 
+disaster management system based on Event driven Architecture 
